@@ -1,0 +1,114 @@
+
+/* Head Stuff */
+head:a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Navbar Stuff */
+.navigate{
+    background-color:#f7f8fa;
+}
+.nav{
+    margin:10px;
+}
+.nav ul li{
+    display:inline-block;
+} 
+.nav ul li a{
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+}
+.nav ul li a:hover, .active{
+    background-color:#2969FF;
+    color: white;
+    border-radius:20px;
+}
+/* Introduction Stuff */
+.common_heading1{
+    text-align:center;
+    margin: 20px 0px;
+    color:#2969FF;
+    margin-bottom: 1px;
+}
+.common_heading2{
+    color:#8dc63f;
+}
+
+#intro{
+    text-align:justify;
+    background-color:#f7f8fa;
+}
+.inline1{
+    width: 5%;
+    height: 3px;
+    background-color: #8dc63f;
+    display: block;
+    margin-left: 42%;
+}
+.inline2{
+    width: 5%;
+    height: 3px;
+    background-color: #8dc63f;
+    display: block;
+    margin-left: 53%;
+}
+/* Counter Stuff */
+.count{
+    font-family:times new roman;
+    font-weight:bold;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color:#f7f8fa;
+
+}
+.spa{
+    color:#45FF00;
+}
+/* Services Stuff */
+.services{
+    padding-top: 40px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 18px;
+    color: rgb(28, 129, 223);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+/* Mission Stuff */
+.miline{
+    width: 50px;
+    height: 3px;
+    background-color: #8dc63f;
+    display: block;
+}
+.chk{
+	border: 1px solid #F2F2F2;
+	margin: 5% 0%;
+	background-color: #F2F2F2;
+	color: #316DC3;
+	border-radius: 4px;
+	box-shadow: 0px 1.5px 3px 1.5px #D7DBDD;
+}
+
+/* Footer */
+.footer
+{
+    padding: 3% 3%;
+    background-color: rgb(37, 39, 46);
+    font-size: 15px;
+    color:rgba(255, 255, 255, 0.384);
+}
+/*Back To Top*/
+#top1{
+    width: 5%;
+    position: fixed;
+    top: 90%;
+    left: 95%;
+    opacity: 45%;
+}
+
+
